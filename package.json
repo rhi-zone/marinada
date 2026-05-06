@@ -17,6 +17,6 @@
   },
   "type": "module",
   "dependencies": {
-    "@rhi-zone/rainbow": "0.1.0"
+    "@rhi-zone/rainbow": "0.2.0-alpha.1"
   }
 }

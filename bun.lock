@@ -5,7 +5,7 @@
     "": {
       "name": "@dusklight/marinada",
       "dependencies": {
-        "@rhi-zone/rainbow": "0.1.0",
+        "@rhi-zone/rainbow": "0.2.0-alpha.1",
       },
       "devDependencies": {
         "@types/bun": "^1.3.10",
@@ -92,7 +92,7 @@
 
     "@oxlint/binding-win32-x64-msvc": ["@oxlint/binding-win32-x64-msvc@1.63.0", "", { "os": "win32", "cpu": "x64" }, "sha512-QeN/WELOfsXMeYwxvfgQrl6CbVftYUCZsGXHjXQd5Trccm8+i4gmtxaOui4xbJQaiDlviF8F3yLSBloQUeFsfA=="],
 
-    "@rhi-zone/rainbow": ["@rhi-zone/rainbow@0.1.0", "", {}, "sha512-/6gIGF9iRi39h0jE1R8BE4lO0TiJq7nJtxmaLwJUBkhthxb+srTPCQy4S55P+7HUaJ6WKaQp3kr7Igqhjot5DA=="],
+    "@rhi-zone/rainbow": ["@rhi-zone/rainbow@0.2.0-alpha.1", "", {}, "sha512-kJodlExR5SymDOZlvVLh+EmAhEoeMtVDqy00HgGG73DhMpX5mnWuMI4ak4WjBDklJxc2WkCSPaPucBUvqx11AQ=="],
 
     "@types/bun": ["@types/bun@1.3.13", "", { "dependencies": { "bun-types": "1.3.13" } }, "sha512-9fqXWk5YIHGGnUau9TEi+qdlTYDAnOj+xLCmSTwXfAIqXr2x4tytJb43E9uCvt09zJURKXwAtkoH4nLQfzeTXw=="],
 
